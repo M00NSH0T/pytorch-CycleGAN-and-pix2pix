@@ -1,3 +1,10 @@
+M00NSH0T: This is a version of junyanz PyTorch pix2pix implementation modified very slightly to work with a satellite image dataset. I'll be updating this further in the next couple weeks to work with gridded data saved either in a MySQL database or accessed via the Copernicus Climate Data Store API used to access ERA5 data. Fow details of how to use this, please watch episodes 4 and 5 of my YouTube series on predicting the track of hurricanes using Machine Learning.
+
+See here:
+[![Alt text](https://i9.ytimg.com/vi/qhQqmGt_Z7E/mqdefault.jpg?v=5cdefa8a&sqp=CLjZ_-YF&rs=AOn4CLCY2rmV-9FE9jmRA0CdA1tjdA3a-Q&time=1558179250575)](https://www.youtube.com/watch?v=qhQqmGt_Z7E)
+
+
+
 <img src='imgs/horse2zebra.gif' align="right" width=384>
 
 <br><br><br>
